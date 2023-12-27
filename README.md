@@ -1,3 +1,4 @@
+კულუა?
 <!DOCTYPE html>
 <html lang="ka">
 <head>
